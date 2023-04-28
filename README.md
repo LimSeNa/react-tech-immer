@@ -13,6 +13,6 @@
 
 ### ✏️ 이전 학습 내용 정리
 - [[react-tech] repository](https://github.com/LimSeNa/react-tech)<br>
-- [[react-tech-hooks] repository](https://ssena.notion.site/08-Hooks-7dea836c36a04b1096f0e36afb5fe454)<br>
+- [[react-tech-hooks] repository](https://github.com/LimSeNa/react-tech-hooks)<br>
 - [[react-tech-styling] repository](https://github.com/LimSeNa/react-tech-styling)<br>
 - [[react-tech-todo] repository](https://github.com/LimSeNa/react-tech-todo)<br>
