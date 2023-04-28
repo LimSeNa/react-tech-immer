@@ -1,5 +1,5 @@
 # react-tech-immer
-리액트 ***immer 라이브러리*** 학습 내용 정리 및 예제 코드 저장소
+리액트 ***immer 라이브러리***  학습 내용 정리 및 예제 코드 저장소
 <br>
 <br>
 
@@ -8,7 +8,7 @@
 <br>
 
 ### ✏️ 정리
-- [immer를 사용하여 더 쉽게 불변 유지하기](https://ssena.notion.site/12-immer-cb5f057ad5944e75820733012bc6d78f)<br>
+- [immer를 사용하여 더 쉽게 불변성 유지하기](https://ssena.notion.site/12-immer-cb5f057ad5944e75820733012bc6d78f)<br>
 <br>
 
 ### ✏️ 이전 학습 내용 정리
